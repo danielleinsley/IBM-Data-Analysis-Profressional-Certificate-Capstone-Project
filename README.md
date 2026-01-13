@@ -1,1 +1,1 @@
-# IBM-Data-Analysis-Profressional-Certificate-Capstone-Project
+# IBM Data Analysis Profressional Certificate Capstone Project
